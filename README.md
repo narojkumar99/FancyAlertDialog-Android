@@ -72,7 +72,7 @@ You can add this animation to your dialog by using `.setAnimation(Animation.POP)
 
 ##### Side Animation
 
-This animation let dialog enter screen from left and exit from right. You can add this animation to your dialog by using `.setAnimation(Animation.SIDE)`
+This animation let dialog enter screen from left and exit from right. You can add this animations to your dialog by using `.setAnimation(Animation.SIDE)`
 
 ##### Slide Animation
 
